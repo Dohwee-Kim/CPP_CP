@@ -1,8 +1,10 @@
-.vscode
-
 #ignore all
 *
 #unignore all with extensions 
 !*.*
 # unignore all dirs 
 !*/
+
+.vscode
+.DS_Store
+*.json
